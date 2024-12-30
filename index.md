@@ -59,7 +59,6 @@
 
 <!-- Navigation Bar -->
 <nav class="navbar">
-  <a href="#welcome">Home</a>
   <a href="#gallery">Gallery</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
