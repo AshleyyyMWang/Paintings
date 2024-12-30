@@ -142,7 +142,7 @@
 <section id="about">
   <h2>About Ashley</h2>
   <p>
-    Ashley is a talented artist specializing in traditional Chinese paintings. Her work beautifully captures the essence of nature, focusing on elements like bamboos, lotus flowers, and vibrant fruits. Committed to making art accessible, Ashley strives to offer intricate and high-quality artworks at affordable prices, allowing everyone to bring a piece of culture and beauty into their homes.
+    Ashley Wang is a talented artist specializing in traditional Chinese paintings. Her work beautifully captures the essence of nature, focusing on elements like bamboos, lotus flowers, and vibrant fruits. Committed to making art accessible, Ashley strives to offer intricate and high-quality artworks at affordable prices, allowing everyone to bring a piece of culture and beauty into their homes.
   </p>
 </section>
 
