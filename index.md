@@ -152,8 +152,8 @@
   <p>
     Interested in purchasing a piece or have any questions? Feel free to reach out!
   </p>
-  <p>Email: <a href="mailto:ashley@example.com">ashley@example.com</a></p>
-  <p>Phone: (123) 456-7890</p>
+  <p>Email: <a href="mailto:ashleymwang@yahoo.com">ashley@example.com</a></p>
+  <p>Phone: (603) 277-8450</p>
 </section>
 
 <!-- Footer -->
