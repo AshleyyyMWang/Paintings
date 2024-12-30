@@ -1,9 +1,3 @@
----
-layout: default
-title: "Ashley's Art Collection"
-description: "Explore Ashley's beautiful collection of traditional Chinese paintings. Making intricate artworks affordable and accessible to everyone."
----
-
 <!-- Custom Styles for Tabs -->
 <style>
   /* Container for the tabs */
